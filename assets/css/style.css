@@ -1,0 +1,46 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+html,body {
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+}
+h1{
+    font-weight: 700;
+    color:#707070;
+    font-size: 5.125rem;
+}
+h2{
+    font-weight: 700;
+    font-size: 1rem;
+    color:#373A3C;
+}
+p {
+    font-weight: 500;
+}
+a {
+    text-decoration: none;
+    color: #17A2B8;
+}
+footer {
+    background-color: #e83e8c;
+}
+.navbar {
+    background-color: #e83e8c;
+}
+#navbarNav {
+    color:white
+}
+.payment-section {
+    background-color: #17A2B8;
+    color:white
+}
+.payment-section p {
+    font-weight: 700;
+    font-size: 2rem;
+    margin-bottom: 0;
+    text-align: right;
+}
+
